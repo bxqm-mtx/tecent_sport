@@ -1,0 +1,11 @@
+<view class="container">
+  <!-- 地图组件 -->
+  <map class="map" id="myMap"
+    latitude='{{latitude}}' 
+    longitude='{{longitude}}'
+    scale='16'
+    show-location
+    markers='{{markers}}'
+  >
+  </map>
+</view>[直播中]喻顺武: 单车小程序
